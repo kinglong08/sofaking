@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class SofakingApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(SofakingApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(SofakingApplication.class, args);
+    }
 
 }
